@@ -21,4 +21,5 @@ testImagesPath =  output_dir+'/testImages/'
 # first run videoToImage Script using change varibles with paths
 !python3 videoToImage.py inputVideoPath testImagesPath
 
-# run vechileClassification Script 
+# run vechileClassification 
+run vechileClassification cell by cell
